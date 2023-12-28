@@ -55,10 +55,15 @@ A aplicação fornece os seguintes recursos:
 - Botão Add (Para adicionar as Tarefas)
 - Deletar tarefa (Deslizando do lado **direito** para o **esquerdo** tem o botão de deletar a tarefa)
 - Marcar como **Concluido** ou **Pendente**
-- Local Storage 
+- Local Storage
+- Biblioteca Firebase (Banco de Dados Online) - NEW
+- Sincronização Online - NEW
+- Sincronização Offiline - NEW 
+- Login Account - NEW
+- SignUp Account - NEW
+- Login/SignUp - NEW (BETA-USAGE)
 
 ## **Futuras Novidades**
-- Biblioteca SQLite (Aprimoramento de Banco de Dados)
 - Configurações (para futuras funções de APIs Internas, e temas)
 - Função Lembrete
 - Função Vibrar (API Interna)
