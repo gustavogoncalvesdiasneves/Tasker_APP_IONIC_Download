@@ -21,7 +21,7 @@ de Realizador de Tarefas, para customizações a gosto do usuario =D.</p>
 
 <br/>
 <p align="center">
-<img style="margin:auto" src="img/APP_Review.gif" width="300" />
+<img style="margin:auto" src="img/20231229_113824.gif" width="300" />
 <p />
 
 **Link do Diretorio:** [OpenSource-AppTasker][link-open-source]
