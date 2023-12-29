@@ -117,30 +117,24 @@ PWA é bem complexo pois vai ser instalado em servidores para funcionar na WEB; 
 
 <br/><br/>
 
-## **Novidades**
-
-<h3>Por enquanto nada rs...</h3>
-
-<br/><br/>
-
 ## **Imagens Do App**
 
 <table border="0" cellpadding="1" cellspacing="1" style="width:500px">
 	<tbody>
 		<tr>
-			<td><img src="img/1.jpg"></td>
-			<td><img src="img/2.jpg"></td>
-			<td><img src="img/3.jpg"></td>
+			<td><img style="width: 200px; height: 411px" src="img/1.jpg"></td>
+			<td><img style="width: 200px; height: 411px" src="img/2.jpg"></td>
+			<td><img style="width: 200px; height: 411px" src="img/1_NEW.png"></td>
 		</tr>
 		<tr>
-			<td><img src="img/4.jpg"></td>
-			<td><img src="img/5.jpg"></td>
-			<td><img src="img/6.jpg"></td>
+			<td><img style="width: 200px; height: 411px" src="img/Input_Text.png"></td>
+			<td><img style="width: 200px; height: 411px" src="img/Added Task(1).png"></td>
+			<td><img style="width: 200px; height: 411px" src="img/All_tasks.png"></td>
 		</tr>
 		<tr>
-			<td><img src="img/7.jpg"></td>
-			<td><img src="img/8.jpg"></td>
-			<td><img src="img/9.jpg"></td>
+			<td><img style="width: 200px; height: 411px" src="img/Delete_Option.png"></td>
+			<td><img style="width: 200px; height: 411px" src="img/edit_task.png"></td>
+			<td><img style="width: 200px; height: 411px" src="img/9.jpg"></td>
 		</tr>
 	</tbody>
 </table>
